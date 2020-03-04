@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jsdom": "^16.2.0"
+  },
+  "devDependencies": {
+    "source-map-support": "^0.5.16"
+  },
+  "name": "scala-js-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "sbt fastOptJS"
+  }
+}
